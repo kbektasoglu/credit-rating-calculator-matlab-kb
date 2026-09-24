@@ -20,4 +20,5 @@ Put both files in one folder, open MATLAB and run `credit_rating_calculator.m`.
 ## Example
 Income 60,000 TRY, debt 15,000 TRY, Findeks 1600 -> DTI 25%, score 85.9, rating A, Approve.
 
-This is a very first project of min and not made for any work.
+
+**This is a very first project of mine and not made for any spesific work.**
